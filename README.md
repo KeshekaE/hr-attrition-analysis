@@ -79,8 +79,7 @@ jupyter notebook notebook/hr_attrition_analysis.ipynb
 [Portfolio Link →](https://keportfolio.vercel.app)
 
 ## Author
-
-**Kesheka Edupuganti**
-Data Analyst & BI Specialist | Loma Linda, CA
-ekesheka1010@gmail.com
+**Kesheka Edupuganti**  
+Data Analyst & BI Specialist | Loma Linda, CA  
+ekesheka1010@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/kesheka-edupuganti-b53a96293/)
